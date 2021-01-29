@@ -794,10 +794,6 @@ refer to the applicable agreement for further details.
 	(bus)
 )
 (connector
-	(pt 400 1672)
-	(pt 568 1672)
-)
-(connector
 	(text "Y[0]" (rect 672 1752 693 1764)(font "Arial" ))
 	(pt 664 1768)
 	(pt 816 1768)
@@ -968,10 +964,6 @@ refer to the applicable agreement for further details.
 	(pt 816 136)
 )
 (connector
-	(pt 400 1672)
-	(pt 400 1768)
-)
-(connector
 	(pt 816 1672)
 	(pt 816 1768)
 	(bus)
@@ -1120,18 +1112,6 @@ refer to the applicable agreement for further details.
 	(pt 816 232)
 	(pt 816 328)
 	(bus)
-)
-(connector
-	(pt 392 1768)
-	(pt 400 1768)
-)
-(connector
-	(pt 400 1768)
-	(pt 568 1768)
-)
-(connector
-	(pt 392 1768)
-	(pt 392 1808)
 )
 (connector
 	(pt 384 136)
@@ -1431,6 +1411,27 @@ refer to the applicable agreement for further details.
 	(pt 344 -1152)
 	(pt 344 -1048)
 	(bus)
+)
+(connector
+	(text "Ground" (rect 410 1656 444 1673)(font "Intel Clear" ))
+	(pt 400 1672)
+	(pt 568 1672)
+)
+(connector
+	(pt 400 1672)
+	(pt 400 1768)
+)
+(connector
+	(pt 392 1768)
+	(pt 400 1768)
+)
+(connector
+	(pt 400 1768)
+	(pt 568 1768)
+)
+(connector
+	(pt 392 1768)
+	(pt 392 1808)
 )
 (junction (pt 400 1768))
 (junction (pt 816 1672))
