@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////
-// Testbench for Component: SL2_32
+// Testbench for Component: SPLICE_PCJ
 // Package: FIUSCIS-CDA
 // Course: CDA3102 (Computer Architecture), Florida International University
 // Developer: Trevor Cickovski
